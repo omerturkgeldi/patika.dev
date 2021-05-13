@@ -1,9 +1,9 @@
 # patika.dev
 
-    https://www.patika.dev/egitimler/frontend-web-development-patikasi/javascript/odev1
+https://www.patika.dev/egitimler/frontend-web-development-patikasi/javascript/odev1
 
 
-    Ödev 1
+Ödev 1
 
 
 

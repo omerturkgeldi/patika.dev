@@ -1,6 +1,12 @@
 # patika.dev
 
-Ödev 1
+    https://www.patika.dev/egitimler/frontend-web-development-patikasi/javascript/odev1
+
+
+    Ödev 1
+
+
+
 Javascript Saat ve Karşılama
 Eveet geldik Javascript'in ilk ödevine, öyle heyecanlıyız ki çocuklar gibi şen ve neşeli, gözlerimizi dört açtık içimizde kelebekler ben annemi çok seviyorum yaşasın 23 Nisan! Neyse bu kadar pıtırcıklık yeter, hadi işe koyulalım. Sizlerden aşağıda gösterdiğimiz gibi bir ekran yapmanızı istiyoruz. Projeyi canlı olarak incelemek için buraya, proje dosyalarına erişmek için buraya tıklayınız.
 
